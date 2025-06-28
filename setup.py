@@ -12,7 +12,7 @@ setup(
     description='A colorful GUI library for kids built on Kivy',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/kidsui',
+    url='https://github.com/JavMasterD/kidsui/tree/master',
     classifiers=[
         'Programming Language :: Python :: 3',
         'Intended Audience :: Education',
